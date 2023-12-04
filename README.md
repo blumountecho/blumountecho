@@ -11,3 +11,9 @@ A Seasoned and self-motivated Full Stack Engineer with a proven track record of 
 Skills includes but are not limited to MongoDB, MySQL, NodeJS, ReactJS, PHP, Trading Systems, Project Plans, Solidity, DApp, C# and Business Development.
 
 Be majored in computer science at University of Toronto - Professional engineer holding a Bachelor of Engineering.
+
+==============================================
+
+linkedIn URL:
+
+https://www.linkedin.com/in/jameson-zhou-0487372a2/
